@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Runtime artifacts
+RESULTS/
+CHECKPOINTS/
+LOGS/
+PARTITIONS/
+DATA/
+RUNS/**/*.csv
+
+# Environment and secrets
+.env
+.venv/
+venv/
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp

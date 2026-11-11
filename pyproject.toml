@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paper1-fl-core"
+version = "0.1.0"
+description = "Federated learning experiments for Paper 1"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+    "scikit-learn>=1.3",
+    "Pillow>=9.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["COMMON"]
+include = ["fl_core*"]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "COMMON"]
+testpaths = ["tests"]
+addopts = "-ra --strict-markers"
