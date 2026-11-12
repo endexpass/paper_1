@@ -1,0 +1,32 @@
+{
+  "E0": {
+    "spec_hash": "110af205191d69a366f5415780485490d11dbdaed75c2579bd6b27b3607db711",
+    "approved_at": "2026-11-13T00:00:00+00:00",
+    "approved_by": "protocol_freeze"
+  },
+  "E1": {
+    "spec_hash": "254d8ffce35721fba581de8825adfdcf41b5ac952ebd8d0ed22c0b68ab397e66",
+    "approved_at": "2026-11-13T00:00:00+00:00",
+    "approved_by": "protocol_freeze"
+  },
+  "E2": {
+    "spec_hash": "bf3e55103f803f927bc3712dcb8194c0d8cab6c6448b85431e80ecda798b710b",
+    "approved_at": "2026-11-13T00:00:00+00:00",
+    "approved_by": "protocol_freeze"
+  },
+  "E3": {
+    "spec_hash": "fdc44ce6f0ebcf985806831a4115288c0fd0e93b3aec1ba853c6b8b93246353c",
+    "approved_at": "2026-11-13T00:00:00+00:00",
+    "approved_by": "protocol_freeze"
+  },
+  "E4": {
+    "spec_hash": "81f9bdd72cbeb148e0e7ff5d65db9acf225b75d1891dd3fd3ecb56de7269dd5e",
+    "approved_at": "2026-11-13T00:00:00+00:00",
+    "approved_by": "protocol_freeze"
+  },
+  "E5": {
+    "spec_hash": "45ceb697e9ee24f956d6211c82eaad74625204a5032c9eae4bda2d05f217d1f1",
+    "approved_at": "2026-11-13T00:00:00+00:00",
+    "approved_by": "protocol_freeze"
+  }
+}
