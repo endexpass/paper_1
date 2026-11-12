@@ -1,1 +1,2 @@
 run_id,exp_id,dataset,architecture,platform,seed,variant,code_commit,spec_hash,partition_hash,started_utc,finished_utc,status,metrics_file
+E0_42,E0,CIFAR100,FLAT+HFL,local,42,fedavg,c7478c59bb77dea8006464af8127ddc2b3d6eebd,unknown,,2026-11-12T22:00:49.214519+00:00,2026-11-12T22:00:49.214519+00:00,completed,RESULTS/CIFAR100/E0/seed_42
